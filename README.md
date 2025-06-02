@@ -1,4 +1,4 @@
-# e-shop-sablona
+# E-shop-sablona
 
 Tento návrh představuje obecnou šablonu e‑shopu, která je vizuálně i funkčně navržena pro prodej šperků a podobného sortimentu.
 
