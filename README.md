@@ -15,7 +15,7 @@ Návrh je dostupný: https://www.figma.com/design/yFG8AJ1kcjXY3spEP3lF4Z/Obecn%C
 
 Tato šablona je licencována pod licencí [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.cs).
 
-🔸 Můžeš ji použít, upravit a přizpůsobit pro svůj vlastní web.  
-🔸 Nesmíš ji ale prodávat ani šířit jako samostatný produkt (např. na tržištích nebo jako placený Figma soubor).
+- Můžeš ji použít, upravit a přizpůsobit pro svůj vlastní web.  
+- Nesmíš ji ale prodávat ani šířit jako samostatný produkt (např. na tržištích nebo jako placený Figma soubor).
 
 Autor: Simona Štokingerová
